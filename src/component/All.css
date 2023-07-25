@@ -1,0 +1,9 @@
+.SP_2{
+    justify-content: space-between;
+    display: flex;
+    width: 250px;
+}
+.SP_main{
+    margin-left: 30%;;
+
+}
